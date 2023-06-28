@@ -1,0 +1,256 @@
+# depslib dependency file v1.0
+1655680939 source:c:\users\dalam\onedrive\escritorio\generalnuevo\juegogenerala\main.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	"funcutiles.h"
+
+1655684806 c:\users\dalam\onedrive\escritorio\generalnuevo\juegogenerala\funcutiles.h
+	<windows.h>
+	"consts.h"
+	<string.h>
+
+1655670363 c:\users\dalam\onedrive\escritorio\generalnuevo\juegogenerala\consts.h
+
+1655680939 source:c:\users\dalam\onedrive\escritorio\generalnuevoav2\juegogenerala\main.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	"funcutiles.h"
+
+1655695093 c:\users\dalam\onedrive\escritorio\generalnuevoav2\juegogenerala\funcutiles.h
+	<windows.h>
+	"consts.h"
+	<string.h>
+
+1655670363 c:\users\dalam\onedrive\escritorio\generalnuevoav2\juegogenerala\consts.h
+
+1655777518 source:c:\users\dalam\onedrive\escritorio\generalnuevoav3\juegogenerala\main.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	"funcutiles.h"
+
+1655788648 c:\users\dalam\onedrive\escritorio\generalnuevoav3\juegogenerala\funcutiles.h
+	<windows.h>
+	<string.h>
+	"consts.h"
+
+1655783420 c:\users\dalam\onedrive\escritorio\generalnuevoav3\juegogenerala\consts.h
+
+1655777518 source:c:\users\dalam\onedrive\escritorio\generalnuevoav4\juegogenerala\main.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	"funcutiles.h"
+
+1655869627 c:\users\dalam\onedrive\escritorio\generalnuevoav4\juegogenerala\funcutiles.h
+	<windows.h>
+	<string.h>
+	"consts.h"
+
+1655783420 c:\users\dalam\onedrive\escritorio\generalnuevoav4\juegogenerala\consts.h
+
+1655777518 source:c:\users\dalam\onedrive\escritorio\generalnuevoav6\juegogenerala\main.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	"funcutiles.h"
+
+1656113064 c:\users\dalam\onedrive\escritorio\generalnuevoav6\juegogenerala\funcutiles.h
+	<windows.h>
+	<string.h>
+	"consts.h"
+
+1655783420 c:\users\dalam\onedrive\escritorio\generalnuevoav6\juegogenerala\consts.h
+
+1655777518 source:c:\users\dalam\onedrive\escritorio\generalnuevoav7\juegogenerala\main.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	"funcutiles.h"
+
+1656347452 c:\users\dalam\onedrive\escritorio\generalnuevoav7\juegogenerala\funcutiles.h
+	<windows.h>
+	<string.h>
+	"consts.h"
+
+1655783420 c:\users\dalam\onedrive\escritorio\generalnuevoav7\juegogenerala\consts.h
+
+1655777518 source:c:\users\dalam\onedrive\escritorio\generala_8\juegogenerala\main.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	"funcutiles.h"
+
+1656875684 c:\users\dalam\onedrive\escritorio\generala_8\juegogenerala\funcutiles.h
+	<windows.h>
+	<string.h>
+	"consts.h"
+	"funcionesfront.h"
+
+1656875684 c:\users\dalam\onedrive\escritorio\generala_8\juegogenerala\consts.h
+
+1656875684 c:\users\dalam\onedrive\escritorio\generala_8\juegogenerala\funcionesfront.h
+
+1655777520 source:c:\users\dalam\onedrive\escritorio\generala_10\juegogenerala\main.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	"funcutiles.h"
+
+1657061738 c:\users\dalam\onedrive\escritorio\generala_10\juegogenerala\funcutiles.h
+	<windows.h>
+	<string.h>
+	"consts.h"
+	"funcionesfront.h"
+
+1656875686 c:\users\dalam\onedrive\escritorio\generala_10\juegogenerala\consts.h
+
+1657048508 c:\users\dalam\onedrive\escritorio\generala_10\juegogenerala\funcionesfront.h
+	<windows.h>
+
+1655777520 source:c:\users\lucho\desktop\generala_12\juegogenerala\main.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	"funcutiles.h"
+
+1657149108 c:\users\lucho\desktop\generala_12\juegogenerala\funcutiles.h
+	<windows.h>
+	<string.h>
+	"consts.h"
+	"funcionesfront.h"
+
+1656875686 c:\users\lucho\desktop\generala_12\juegogenerala\consts.h
+
+1657147919 c:\users\lucho\desktop\generala_12\juegogenerala\funcionesfront.h
+	<windows.h>
+
+1657300129 source:c:\users\dalam\onedrive\escritorio\generala v.13\juegogenerala\main.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	"funcutiles.h"
+
+1657469946 c:\users\dalam\onedrive\escritorio\generala v.13\juegogenerala\funcutiles.h
+	<windows.h>
+	<string.h>
+	"consts.h"
+	"funcionesfront.h"
+
+1657469732 c:\users\dalam\onedrive\escritorio\generala v.13\juegogenerala\consts.h
+
+1657468547 c:\users\dalam\onedrive\escritorio\generala v.13\juegogenerala\funcionesfront.h
+	<windows.h>
+
+1657548041 source:c:\users\dalam\onedrive\escritorio\generala v.14\juegogenerala\main.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	"funcutiles.h"
+
+1657829243 c:\users\dalam\onedrive\escritorio\generala v.14\juegogenerala\funcutiles.h
+	<windows.h>
+	<string.h>
+	"consts.h"
+	"funcionesfront.h"
+
+1657469732 c:\users\dalam\onedrive\escritorio\generala v.14\juegogenerala\consts.h
+
+1657548041 c:\users\dalam\onedrive\escritorio\generala v.14\juegogenerala\funcionesfront.h
+	<windows.h>
+
+1657548042 source:c:\users\lucho\desktop\generala v.15 final\juegogenerala\main.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	"funcutiles.h"
+
+1657829244 c:\users\lucho\desktop\generala v.15 final\juegogenerala\funcutiles.h
+	<windows.h>
+	<string.h>
+	"consts.h"
+	"funcionesfront.h"
+
+1657469734 c:\users\lucho\desktop\generala v.15 final\juegogenerala\consts.h
+
+1657548042 c:\users\lucho\desktop\generala v.15 final\juegogenerala\funcionesfront.h
+	<windows.h>
+
+1657548042 source:c:\users\dalam\onedrive\escritorio\juegogenerala\main.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	"funcutiles.h"
+
+1657829244 c:\users\dalam\onedrive\escritorio\juegogenerala\funcutiles.h
+	<windows.h>
+	<string.h>
+	"consts.h"
+	"funcionesfront.h"
+
+1657469734 c:\users\dalam\onedrive\escritorio\juegogenerala\consts.h
+
+1657548042 c:\users\dalam\onedrive\escritorio\juegogenerala\funcionesfront.h
+	<windows.h>
+
+1657548042 source:d:\utn\primer cuatrimestre\juegogenerala\main.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	"funcutiles.h"
+
+1657829244 d:\utn\primer cuatrimestre\juegogenerala\funcutiles.h
+	<windows.h>
+	<string.h>
+	"consts.h"
+	"funcionesfront.h"
+
+1657469734 d:\utn\primer cuatrimestre\juegogenerala\consts.h
+
+1657548042 d:\utn\primer cuatrimestre\juegogenerala\funcionesfront.h
+	<windows.h>
+
